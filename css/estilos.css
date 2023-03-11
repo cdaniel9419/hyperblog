@@ -46,6 +46,8 @@ body{
 
 #post
 {
-    background: white;
-    padding: 1em;
+    background: #767;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
